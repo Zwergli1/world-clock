@@ -26,6 +26,12 @@ h1 {
   text-transform: uppercase;
 }
 
+.beback {
+  color: rgb(243, 1, 182);
+  margin: 0 0 10px;
+  text-decoration: none;
+}
+
 h2 {
   color: rgb(243, 1, 182);
   margin: 0 0 10px;
@@ -45,7 +51,7 @@ select {
 
 .city {
   color: rgb(243, 1, 182);
-  border-bottom: 1px dashed lightgray;
+  border-bottom: 1px dashed rgb(247, 141, 211);
   display: flex;
   justify-content: space-between;
   margin: 20px 0;
